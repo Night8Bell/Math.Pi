@@ -1,2 +1,2 @@
-﻿double c = Math.PI;
-Console.WriteLine(c);
+﻿double pi = Math.PI;
+Console.WriteLine(pi);
